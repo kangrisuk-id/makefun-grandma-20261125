@@ -9,7 +9,7 @@ from __future__ import annotations
 
 import os
 
-WORD = "computo"
+WORD = "robotty"
 
 
 def entry_path() -> str:

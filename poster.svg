@@ -2,10 +2,10 @@
   <!--
     Hero art for the "One Word From Grandma" bounty (u-0xkianno-one-word-from-grandma-f04bed16).
     Dark and clean: no external assets, no make.fun wordmark or brand colours.
-    The word "computo" is the hero, readable at 520 px wide.
+    The word "robotty" is the hero, readable at 520 px wide.
   -->
   <rect x="0" y="0" width="520" height="200" fill="#161b24"/>
-  <text x="260" y="102" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="80" font-weight="bold" fill="#f7f3e9">computo</text>
-  <text x="260" y="142" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#a8b2c5">the box the AI runs on, typed as she hears it</text>
+  <text x="260" y="102" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="80" font-weight="bold" fill="#f7f3e9">robotty</text>
+  <text x="260" y="142" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#a8b2c5">the robot, typed as she says it</text>
   <rect x="24" y="178" width="472" height="6" rx="3" fill="#d4b483"/>
 </svg>

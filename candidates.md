@@ -70,4 +70,68 @@ rest of the table the tie falls to criterion 5 on freshness.
   seed — `computo` is its own pick.
 - **Readable everywhere**: 7 lowercase letters, 8-character gate pass, no spaces, no newline.
 
-Word: **computo** — length 7 characters.
+Word: **computo** — length 7 characters (first pass).
+
+## Second pass
+
+The user gave feedback that `computo` "sounds like a brand name or an Esperanto coinage", so a
+second pass drafted fifteen fresh candidates — every one a single word, letters only, at most
+30 characters, no spaces:
+
+1. **robotty** — the robot, with the extra t she would write (typo lane)
+2. **elektrik** — electric as she types it
+3. **magicbox** — the box that works; she calls it magic
+4. **chatterbox** — the box that talks back
+5. **puterrino** — her computer, cute with the -ino ending
+6. **bitbot** — bits and bot, warm machine
+7. **genio** — genie spelling, the box in her thoughts
+8. **computheur** — computer typed in another soft typo
+9. **abacus** — the old counting machine she could well be thinking of
+10. **chattybox** — chatty + box
+11. **algobot** — algorithm, turned into a robot
+12. **thinkbox** — the thinking box
+13. **sparkybot** — Sparky the dog + bot
+14. **thingbot** — the thing that does it
+15. **roboter** — softer typo of robot
+
+### Shortlist
+
+| # | word | 1. one grandma-word for AI | 2. warm/baffled voice | 3. funny in one word | 4. tied to AI/machines | 5. fresh |
+|---|---------|----------------------------|-----------------------|----------------------|------------------------|----------|
+| 1 | robotty | strong (robot typo) | strong | strong | strong (robot) | strong (not a seed) |
+| 6 | bitbot | strong (bits + bot) | strong | strong | medium (machine) | strong |
+| 3 | magicbox | medium (the box) | strong | strong | medium (box) | medium |
+| 10 | chattybox | medium (the box that talks) | strong | strong | medium | medium |
+| 2 | elektrik | medium (electric) | strong | medium | medium | medium |
+
+### Criteria score of the shortlist, first difference first
+
+1. **Reads as the single word a grandma would text about AI** — `robotty` reads as her typing of
+   robot, the machine behind the AI; `bitbot` reads as a machine word; the boxes read as boxes.
+2. **Warm and a little baffled** — `robotty` (the typo voice, she says robot as robotty),
+   `bitbot`, `magicbox`, `chattybox` all do.
+3. **Funny in one word, the joke lands without a caption** — `robotty` and `bitbot` lead.
+4. **Tied to AI/robots/machines, not any subject** — `robotty` (robot, most AI-tied),
+   `bitbot` (machine), then the boxes.
+5. **Fresh, not the obvious pick** — none of the seeds, all instantly readable.
+
+First criterion where they differ: criterion 4 — `robotty` is unmistakably a robot (AI),
+`bitbot` a machine, `magicbox`/`chattybox` boxes; on criterion 1 all pass, and the table's
+first split is on criterion 4.
+
+### Why robotty won
+
+- **About AI, unmistakably**: `robotty` is a robot — the machine the AI runs on, the clearest
+  AI-tie of the shortlist.
+- **Unmistakably a grandmother's typing**: the typo lane, the lane the user asked us to aim at.
+  She has heard the word robot for as long as the AI has been around; she types it as she says
+  it, the extra t the wobble of her typing. Warm and a little baffled, the way she would text
+  her family.
+- **Funny in one word without a caption**: the joke is her casually calling the thing that
+  talks to her "robotty" — one word, no explanation needed.
+- **Fresh, not the obvious**: the seeds she could be copied from (`robit` is named in RULES.txt;
+  `roomba` the machine she owns; `alexia` the assistant) are different words; `robotty` is its
+  own pick.
+- **Readable everywhere**: 7 lowercase letters, 7-character gate pass, no spaces, no newline.
+
+Word: **robotty** — length 7 characters.
